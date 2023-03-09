@@ -4,7 +4,7 @@
 /// 1.not use *, / and %
 /// 2.if overflow, return the integer max
 ///
-/// Question
+/// 问题描述：
 /// 输入两个int型整数，他们进行除法计算并返回商，要求不得使用乘号，除号，以及求余符号，当发生溢出时，返回最大的整数值。
 ///
 
